@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     Example of chart.
-    <bar-chart :data="[40, 20]"></bar-chart>
+    <bar-chart></bar-chart>
   </div>
 </template>
 
